@@ -9,7 +9,4 @@ Testing Jenkins Trigger Discord Notification
 
 Testing Jenkins Trigger Discord Notification Againn
 
-
-Testing:
-- Jenkins trigger
-- Discord Notificationnn
+Test
